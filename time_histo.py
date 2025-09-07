@@ -114,7 +114,7 @@ def run_all_imgs(model_path, images, labels):
 
 
 if __name__ == "__main__":
-    model_path = "mnist_emnist_blank_cnn_v1.onnx"
+    model_path = "mnist_emnist_blank_cnn_v1_quant.onnx"
 
     images_path = "t10k-images-idx3-ubyte-with-empty.gz"
     labels_path = "t10k-labels-idx1-ubyte-with-empty.gz"
