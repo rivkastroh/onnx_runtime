@@ -1,0 +1,20 @@
+batch 1:
+Providers in use: ['CPUExecutionProvider']
+Number of success:  9955
+Number of faild:  1045
+Avg time:  84.11760763688521 microseconds
+Total inference time: 1.09 seconds (0.02 minutes)
+
+batch 32:
+Providers in use: ['CPUExecutionProvider']
+Number of success:  9955
+Number of faild:  1045
+Avg time:  51.20418734790742 microseconds
+Total inference time: 0.66 seconds (0.01 minutes)
+
+batch 64:
+Providers in use: ['CPUExecutionProvider']
+Number of success:  9955
+Number of faild:  1045
+Avg time:  53.6580542195279 microseconds
+Total inference time: 0.71 seconds (0.01 minutes)
